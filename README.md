@@ -296,14 +296,14 @@ This is a simple example of how we start using React to create a user interface.
 
 | Concept | Description |
 |---------|-------------|
-| 🧩 **JSX** | JavaScript XML - write HTML in JavaScript |
-| 🔧 **Components** | Reusable UI building blocks |
-| 📦 **Props** | Pass data between components |
-| 💾 **State** | Store and manage component data |
-| 🪝 **Hooks** | Functions like useState, useEffect |
-| 🎯 **Events** | Handle user interactions |
-| 📝 **Forms** | Create and validate forms |
-| 🌐 **API Integration** | Fetch data from servers |
+|  **JSX** | JavaScript XML - write HTML in JavaScript |
+|  **Components** | Reusable UI building blocks |
+|  **Props** | Pass data between components |
+|  **State** | Store and manage component data |
+|  **Hooks** | Functions like useState, useEffect |
+|  **Events** | Handle user interactions |
+|  **Forms** | Create and validate forms |
+|  **API Integration** | Fetch data from servers |
 
 ---
 
@@ -311,13 +311,13 @@ This is a simple example of how we start using React to create a user interface.
 
 Once you understand this basic process, you'll be ready to:
 
-✨ Build interactive user interfaces
+- Build interactive user interfaces
 
-✨ Create reusable component libraries
+- Create reusable component libraries
 
-✨ Manage application state effectively
+- Manage application state effectively
 
-✨ Connect to real APIs and databases
+- Connect to real APIs and databases
 
 **Happy coding with React!** 💚
 
